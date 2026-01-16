@@ -48,7 +48,6 @@ func main() {
 
 #### Backend
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### Frontend
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
@@ -83,7 +82,7 @@ func main() {
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chintansakhiya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=C9D1D9" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chintansakhiya&theme=tokyonight&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=C9D1D9" alt="Contribution Graph" />
 </div>
 
 ---

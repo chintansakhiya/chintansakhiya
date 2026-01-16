@@ -70,7 +70,7 @@ hobbies: ["Gaming", "Photography", "Open Source"]
 
 <p align="center">
   <!-- Pac-Man Animated Contribution Graph -->
-  <img src="https://raw.githubusercontent.com/chintansakhiya/chintansakhiya/output/pacman-contribution.svg" alt="Pac-Man eating my contributions" width="800" />
+  <img src="https://github.com/chintansakhiya/chintansakhiya/blob/output/dist/pacman-contribution-graph.svg?raw=1" alt="Pac-Man eating my contributions" width="800" />
 </p>
 
 <p align="center">

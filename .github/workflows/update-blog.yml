@@ -1,0 +1,22 @@
+name: Update Recent Blog Posts
+on:
+  schedule:
+    - cron: '0 8 * * *' # Runs daily at 8 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: 'BLOG-POST-LIST'
+          feed_list: 'https://yourblog.com/feed' # Your RSS/Atom/JSON feed URL
+      - name: Commit & Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'docs: Update recent blog posts'
+          commit_user_name: 'README Bot'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

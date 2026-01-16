@@ -77,23 +77,3 @@ hobbies: ["Gaming", "Photography", "Open Source"]
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=chintansakhiya&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-## 🤝 Recent Activity & Blog (Optional Automation)
-
-### **Latest Blog Posts** *(Auto-updated)*
-<!-- BLOG-POST-LIST:START -->
-<!-- Your latest blog post titles and links will be automatically inserted here by GitHub Actions -->
-<!-- BLOG-POST-LIST:END -->
-
-*Want to see what I'm thinking about? Check out my [full blog](https://yourblog.com).*
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chintansakhiya&label=Profile%20Views&color=7e22ce&style=flat" alt="Profile Views" />
-</p>
-<p align="center">
-  <i>“First, solve the problem. Then, write the code.” – John Johnson</i>
-</p>

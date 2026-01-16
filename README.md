@@ -2,78 +2,135 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:7e22ce&height=160&section=header&text=Chintan%20Sakhiya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
-<h1 align="center">Full-Stack Developer • Go • Vue.js • Nuxt.js</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourprofile/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://yourportfolio.com/">
-    <img src="https://img.shields.io/badge/Portfolio-172554?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<h3 align="center">🚀 Full Stack Developer | Golang | Nuxt.js | Vue.js</h3>
 
----
 
-## 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-```yaml
-name: Chintan Sakhiya
-located_in: "Your City, Country"
-current_role: Full-Stack Developer
-passions:
-  - Building scalable backends with Go
-  - Crafting reactive frontends with Vue.js & Nuxt.js
-  - System architecture and clean code
-hobbies: ["Gaming", "Photography", "Open Source"]
+```go
+package main
+
+import "fmt"
+
+type Developer struct {
+    Name       string
+    Role       string
+    Languages  []string
+    Frameworks []string
+    Interests  []string
+}
+
+func main() {
+    chintan := Developer{
+        Name:        "Chintan Sakhiya",
+        Role:       "Full Stack Developer",
+        Languages:   []string{"Go", "JavaScript", "TypeScript"},
+        Frameworks: []string{"Nuxt.js", "Vue.js", "Gin", "Fiber"},
+        Interests:  []string{"Backend Architecture", "Web Performance", "Clean Code"},
+    }
+    
+    fmt.Printf("Building awesome things with %v!\n", chintan.Frameworks)
+}
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-### **Backend & DevOps**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="50" height="50" title="Go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" title="Nginx" />
-</p>
+<div align="center">
 
-### **Frontend**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" title="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="50" height="50" title="Nuxt.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" title="Tailwind CSS" />
-</p>
+#### Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### **Tools**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" title="VS Code" />
-</p>
+#### Frontend
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
-<p align="center">
-  <!-- Dynamic GitHub Stats Card -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=chintansakhiya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" height="165" />
-  &nbsp;
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chintansakhiya&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=SomeRepoName" alt="Top Languages" height="165" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=chintansakhiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chintansakhiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" height="180"/>
+</div>
 
-<p align="center">
-  <!-- Pac-Man Animated Contribution Graph -->
-  <img src="https://github.com/chintansakhiya/chintansakhiya/blob/output/dist/pacman-contribution-graph.svg?raw=1" alt="Pac-Man eating my contributions" width="800" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=chintansakhiya&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=chintansakhiya&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chintansakhiya&theme=tokyonight&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=C9D1D9" alt="Contribution Graph" />
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintansakhiya&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintansakhiya&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintansakhiya&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chintansakhiya&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintansakhiya&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chintansakhiya/chintansakhiya/blob/output/dist/pacman-contribution-graph-dark.svg?raw=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/chintansakhiya/chintansakhiya/blob/output/dist/pacman-contribution-graph.svg?raw=1">
+    <img alt="github contribution grid snake animation" src="https://github.com/chintansakhiya/chintansakhiya/blob/output/dist/pacman-contribution-graph.svg?raw=1">
+  </picture>
+</div>
+
+---
+
+### 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chintansakhiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chintansakhiya)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chintansakhiya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chintansakhiya.dev)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&animation=twinkling" />
+</div>

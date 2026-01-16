@@ -1,16 +1,9 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vline=true&width=940&lines=Hey+there!+👋+I'm+Chintan+Sakhiya;Full+Stack+Developer+%7C+Problem+Solver;Building+with+Go+%2B+Nuxt+%2B+Vue" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:7e22ce&height=160&section=header&text=Chintan%20Sakhiya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
+</p>
 
 <h3 align="center">🚀 Full Stack Developer | Golang | Nuxt.js | Vue.js</h3>
 
-<p align="center">
-  <a href="https://github.com/chintansakhiya">
-    <img src="https://komarev.com/ghpvc/?username=chintansakhiya&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  </a>
-</p>
-
----
 
 ### 👨‍💻 About Me
 
@@ -69,12 +62,12 @@ func main() {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chintansakhiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintansakhiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=chintansakhiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chintansakhiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chintansakhiya&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=chintansakhiya&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
 </div>
 
 ---
@@ -109,9 +102,9 @@ func main() {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chintansakhiya/chintansakhiya/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chintansakhiya/chintansakhiya/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chintansakhiya/chintansakhiya/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chintansakhiya/chintansakhiya/blob/output/dist/pacman-contribution-graph-dark.svg?raw=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/chintansakhiya/chintansakhiya/blob/output/dist/pacman-contribution-graph.svg?raw=1">
+    <img alt="github contribution grid snake animation" src="https://github.com/chintansakhiya/chintansakhiya/blob/output/dist/pacman-contribution-graph.svg?raw=1">
   </picture>
 </div>
 

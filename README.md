@@ -62,10 +62,10 @@ hobbies: ["Gaming", "Photography", "Open Source"]
 
 <p align="center">
   <!-- Dynamic GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chintansakhiya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=chintansakhiya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" height="165" />
   &nbsp;
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintansakhiya&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=SomeRepoName" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chintansakhiya&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=SomeRepoName" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">

@@ -88,14 +88,10 @@ func main() {
 
 ---
 
-### 📊 Profile Views & Activity
+### 📊 Profile Views
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=chintansakhiya&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=chintansakhiya&repo=chintansakhiya&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=A855F7" alt="Pinned Repository" />
 </div>
 
 ---

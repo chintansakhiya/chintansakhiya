@@ -6,32 +6,15 @@
 
 
 ### 👨‍💻 About Me
+ 
+Hi there! I'm **Chintan Sakhiya**, a passionate Full Stack Developer who loves building scalable and performant web applications. I thrive on turning complex problems into elegant solutions.
 
-```go
-package main
+**💼 What I Do**
 
-import "fmt"
-
-type Developer struct {
-    Name       string
-    Role       string
-    Languages  []string
-    Frameworks []string
-    Interests  []string
-}
-
-func main() {
-    chintan := Developer{
-        Name:        "Chintan Sakhiya",
-        Role:       "Full Stack Developer",
-        Languages:   []string{"Go", "JavaScript", "TypeScript"},
-        Frameworks: []string{"Nuxt.js", "Vue.js", "Gin", "Fiber"},
-        Interests:  []string{"Backend Architecture", "Web Performance", "Clean Code"},
-    }
-    
-    fmt.Printf("Building awesome things with %v!\n", chintan.Frameworks)
-}
-```
+- 🔧 Architect robust backend systems with **Go**
+- 🎨 Craft seamless user experiences with **Nuxt.js** & **Vue.js**
+- 🚀 Optimize performance and scalability
+- 📚 Continuous learner and tech enthusiast
 
 ---
 

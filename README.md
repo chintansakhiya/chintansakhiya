@@ -95,7 +95,7 @@ func main() {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=chintansakhiya&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&layout=compact" alt="Coding Activity" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=chintansakhiya&repo=chintansakhiya&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=A855F7" alt="Pinned Repository" />
 </div>
 
 ---

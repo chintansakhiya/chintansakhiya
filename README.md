@@ -80,20 +80,22 @@ func main() {
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintansakhiya&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chintansakhiya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📊 Profile Views & Activity
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chintansakhiya&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintansakhiya&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintansakhiya&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chintansakhiya&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintansakhiya&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=chintansakhiya&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&layout=compact" alt="Coding Activity" />
 </div>
 
 ---

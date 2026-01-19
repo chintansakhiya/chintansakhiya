@@ -54,7 +54,7 @@ Hi there! I'm **Chintan Sakhiya**, a passionate Full Stack Developer who loves b
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=chintansakhiya&theme=moonlight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+  <img src="href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=chintansakhiya&theme=material&hide_border=true&ring=EB6E78&fire=EB6E78&sideNums=EB6E78&sideLabels=EB6E78&currStreakLabel=6EB6EB&currStreakNum=6EB6EB"" alt="GitHub Streak" />
 </div>
 
 ---

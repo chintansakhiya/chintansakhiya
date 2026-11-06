@@ -93,9 +93,9 @@ Hi there! I'm **Chintan Sakhiya**, a passionate Full Stack Developer who loves b
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chintansakhiya/chintansakhiya/blob/output/dist/pacman-contribution-graph-dark.svg?raw=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/chintansakhiya/chintansakhiya/blob/output/dist/pacman-contribution-graph.svg?raw=1">
-    <img alt="github contribution grid snake animation" src="https://github.com/chintansakhiya/chintansakhiya/blob/output/dist/pacman-contribution-graph.svg?raw=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chintansakhiya/chintansakhiya/blob/output/pacman-contribution-graph-dark.svg?raw=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/chintansakhiya/chintansakhiya/blob/output/pacman-contribution-graph.svg?raw=1">
+    <img alt="github contribution grid snake animation" src="https://github.com/chintansakhiya/chintansakhiya/blob/output/pacman-contribution-graph.svg?raw=1">
   </picture>
 </div>
 

@@ -16,16 +16,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Pac-Man SVG
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@v5.3.2
         with:
           github_user_name: ${{ github.repository_owner }}
-          output_branch: 'output'
-          svg_out_path: 'pacman-contribution.svg'
 
       - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
-          build_dir: '.'
+          build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
